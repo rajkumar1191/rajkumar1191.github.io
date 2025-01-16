@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.billionfaces.casttree",
+            "sha256_cert_fingerprints": [
+                "0F:7F:AF:96:F2:34:14:47:DA:11:2E:57:C1:9F:15:48:B8:36:4C:23:15:17:93:37:45:EF:66:93:A1:9E:A1:7E"
+            ]
+        }
+    }
+]
